@@ -1,7 +1,7 @@
 # bye-zapret
 
 <p align="center">
-  <img src="logo.png" width="850" alt="bye-zapret logo">
+  <img src="logo.png" width="1150" alt="bye-zapret logo">
 </p>
 
 Консольная утилита для Windows, полностью удаляющая **zapret** и связанные с ним компоненты (winws.exe, WinDivert), а также сбрасывающая сетевой стек системы.
