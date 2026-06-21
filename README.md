@@ -1,5 +1,3 @@
-# bye-zapret
-
 <p align="center">
   <img src="logo.png" width="2500" alt="bye-zapret logo">
 </p>
